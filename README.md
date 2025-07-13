@@ -23,7 +23,7 @@ Website ini merupakan hasil perancangan oleh **Adryan Prayoga** sebagai bagian d
 - Login admin (username dan password)
 - Manajemen paket fotografi (tambah, edit, hapus)
 - Lihat dan kelola data booking pelanggan
-- Input dan validasi nominal pembayaran
+- Input dan validasi status pembayaran
 
 ## 💻 Teknologi yang Digunakan
 - **Frontend**: HTML, CSS, JavaScript
@@ -31,12 +31,12 @@ Website ini merupakan hasil perancangan oleh **Adryan Prayoga** sebagai bagian d
 - **Database**: MySQL
 - **Tools**: XAMPP (sebagai local server untuk pengembangan)
 
-## 📁 Struktur Folder
+
 
 ## 🧑‍💻 Developer
 Nama: **Adryan Prayoga**  
 Posisi: Perancang Website & Pengembang Sistem  
-Kontak: [depictworks.id@gmail.com](mailto:depictworks.id@gmail.com)
+Kontak: [depictworks.id@gmail.com](mailto:adryanprayoga690@gmail.com)
 
 ---
 
